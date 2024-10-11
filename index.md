@@ -63,11 +63,7 @@ va la descripcion
 ***hola***
 
 <h6>hello<h6/>
-
-
-
-
-
+# add: image
 
 
 ![Link an image.](https://swimburger.net/media/ppnn3pcl/azure.png)
